@@ -22,7 +22,7 @@
 
 ---
 
-### 🔄 Luồng Hoạt Động Xử Lý Sự Cố (Workflow)
+###  Luồng Hoạt Động Xử Lý Sự Cố (Workflow)
 
 > *Sơ đồ dưới đây minh họa luồng dữ liệu khép kín: từ bước thiết bị đầu cuối tương tác với mạng, tiến trình phân tích log, cho đến khi hệ thống tự động đưa ra quyết định ngăn chặn và cảnh báo.*
 
@@ -32,9 +32,9 @@
 
 ---
 
-### 🎥 Video Demo Hệ Thống
+### Video Demo Hệ Thống
 
-> *Video trình bày thực tế cách hệ thống phát hiện hành vi quét cổng Nmap và tự động kích hoạt tiến trình chặn IP trên pfSense, đồng thời gửi cảnh báo về Telegram.*
+> *Video trình bày thực tế cách hệ thống phát hiện hành vi quét cổng Nmap và tự động kích hoạt tiến trình chặn IP trên pfSense, đồng thời gửi cảnh báo về Telegram, Google sheet  .*
 
 <div align="center">
   <a href="https://youtu.be/K-Hdi1I-8L4">
