@@ -22,15 +22,22 @@
 
 ---
 
-### Luồng Hoạt Động Xử Lý Sự Cố (Workflow)
+### 🔄 Luồng Hoạt Động Xử Lý Sự Cố (Workflow)
 
 > *Sơ đồ dưới đây minh họa luồng dữ liệu khép kín: từ bước thiết bị đầu cuối tương tác với mạng, tiến trình phân tích log, cho đến khi hệ thống tự động đưa ra quyết định ngăn chặn và cảnh báo.*
 
 <div align="center">
-  <img width="700" alt="Sơ đồ kiến trúc luồng xử lý phản ứng an ninh mạng" src="https://github.com/user-attachments/assets/1e3b226f-99ea-40c6-a3fe-779950effcf0" />
-</div
-  
+  <img width="800" alt="Sơ đồ kiến trúc luồng xử lý phản ứng an ninh mạng" src="https://github.com/user-attachments/assets/1e3b226f-99ea-40c6-a3fe-779950effcf0" />
+</div>
+
 ---
 
-### Video demo hệ thống
-https://youtu.be/7g8psnQHxWU?si=kT3lBEIBo6cDSw8q
+### 🎥 Video Demo Hệ Thống
+
+> *Video trình bày thực tế cách hệ thống phát hiện hành vi quét cổng Nmap và tự động kích hoạt tiến trình chặn IP trên pfSense, đồng thời gửi cảnh báo về Telegram.*
+
+<div align="center">
+  <a href="https://youtu.be/K-Hdi1I-8L4">
+    <img src="https://img.youtube.com/vi/K-Hdi1I-8L4/maxresdefault.jpg" alt="Video Demo Hệ Thống SOAR" width="800">
+  </a>
+</div>
