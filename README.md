@@ -33,3 +33,4 @@
 ---
 
 ### Video demo hệ thống
+https://youtu.be/7g8psnQHxWU?si=kT3lBEIBo6cDSw8q
