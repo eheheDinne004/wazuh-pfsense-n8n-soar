@@ -28,4 +28,8 @@
 
 <div align="center">
   <img width="700" alt="Sơ đồ kiến trúc luồng xử lý phản ứng an ninh mạng" src="https://github.com/user-attachments/assets/1e3b226f-99ea-40c6-a3fe-779950effcf0" />
-</div>
+</div
+  
+---
+
+### Video demo hệ thống
